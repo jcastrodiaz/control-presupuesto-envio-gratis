@@ -1,0 +1,32 @@
+[
+  {
+    "order_id": "pedido001",
+    "fecha": "2025-07-10T03:21:31.643Z",
+    "region": "RM",
+    "productos": [
+      "123",
+      "999"
+    ],
+    "campañas": [
+      {
+        "id": "a841a7f2-cf25-456d-8832-536971077530",
+        "descuento": 3066
+      }
+    ]
+  },
+  {
+    "order_id": "pedido001",
+    "fecha": "2025-07-10T03:26:33.235Z",
+    "region": "RM",
+    "productos": [
+      "123",
+      "999"
+    ],
+    "campañas": [
+      {
+        "id": "a841a7f2-cf25-456d-8832-536971077530",
+        "descuento": 3066
+      }
+    ]
+  }
+]

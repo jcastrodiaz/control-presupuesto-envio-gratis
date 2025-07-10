@@ -1,0 +1,17 @@
+[
+  {
+    "id": "a841a7f2-cf25-456d-8832-536971077530",
+    "nombre": "Campaña Julio",
+    "productos": [
+      "123",
+      "456"
+    ],
+    "presupuestoInicial": 10000,
+    "presupuestoRestante": 3868,
+    "descuentos": {
+      "RM": 3066,
+      "otras": 9990,
+      "global": 5000
+    }
+  }
+]
